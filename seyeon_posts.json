@@ -1,12 +1,12 @@
 [
   {
     "text": "coffee’s already cold again ☕️",
-    "image": "https://yourcdn.com/seyeon1.jpg",
+    "image": "https://raw.githubusercontent.com/datastreamcowboys/seyeon-content/main/images/seyeon1.png",
     "tags": ["morning", "cozy"]
   },
   {
     "text": "idk. everything feels soft tonight 🌙",
-    "image": "https://yourcdn.com/seyeon2.jpg",
+    "image": "https://raw.githubusercontent.com/datastreamcowboys/seyeon-content/main/images/seyeon2.png",
     "tags": ["night", "thoughts"]
   }
 ]
