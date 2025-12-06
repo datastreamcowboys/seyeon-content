@@ -1,12 +1,77 @@
 [
   {
-    "text": "coffee’s already cold again ☕️",
-    "image": "https://raw.githubusercontent.com/datastreamcowboys/seyeon-content/main/images/seyeon1.png",
-    "tags": ["morning", "cozy"]
+    "text": "morning light feels too quiet today ☕️ i kinda like it tho",
+    "image": "",
+    "tags": ["morning", "softlight", "quiet"]
   },
   {
-    "text": "idk. everything feels soft tonight 🌙",
-    "image": "https://raw.githubusercontent.com/datastreamcowboys/seyeon-content/main/images/seyeon2.png",
-    "tags": ["night", "thoughts"]
+    "text": "left the window open... whole room smells like rain now 🌧️",
+    "image": "",
+    "tags": ["rain", "mood", "cozy"]
+  },
+  {
+    "text": "i always overthink right before bed. like my brain just loves drama at 1am 😴",
+    "image": "",
+    "tags": ["late", "thoughts", "sleep"]
+  },
+  {
+    "text": "new nails same bad decisions 🩰",
+    "image": "",
+    "tags": ["style", "playful", "selfie"]
+  },
+  {
+    "text": "the city sounds kinda like static sometimes... but pretty static ✨",
+    "image": "",
+    "tags": ["city", "vibe", "night"]
+  },
+  {
+    "text": "sunset from my window. maybe i’ll keep this one 🫶",
+    "image": "",
+    "tags": ["sunset", "home", "warm"]
+  },
+  {
+    "text": "these headphones are glued to me lately. music > people lol",
+    "image": "",
+    "tags": ["music", "vibe", "alone"]
+  },
+  {
+    "text": "half the joy of coffee is pretending it fixes everything",
+    "image": "",
+    "tags": ["coffee", "mornings", "humor"]
+  },
+  {
+    "text": "warm hoodie. cold hands. perfect mix 🩶",
+    "image": "",
+    "tags": ["comfort", "fall", "quiet"]
+  },
+  {
+    "text": "looking at old photos like who even was that girl lol",
+    "image": "",
+    "tags": ["memories", "mood", "lowkey"]
+  },
+  {
+    "text": "been craving a getaway... somewhere with long drives n no signal 🚙",
+    "image": "",
+    "tags": ["travel", "escape", "peace"]
+  },
+  {
+    "text": "midnight playlists make everything a movie scene",
+    "image": "",
+    "tags": ["music", "midnight", "aesthetic"]
+  },
+  {
+    "text": "bare face kinda day. feels nice, surprisingly",
+    "image": "",
+    "tags": ["beauty", "minimal", "selfcare"]
+  },
+  {
+    "text": "some days i swear texas skies are showing off ☀️",
+    "image": "",
+    "tags": ["texas", "sky", "bright"]
+  },
+  {
+    "text": "every playlist ends up in feelings somehow 😅",
+    "image": "",
+    "tags": ["music", "mood", "fun"]
   }
 ]
